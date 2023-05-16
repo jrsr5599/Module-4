@@ -42,3 +42,10 @@ SO THAT I can gauge my progress compared to my peers
 * Was helped with rwaynewhite5 on structure of the coding. 
 
 * Used website https://www.javascript.com 
+
+## ASSETS
+![A picture of the website.](images/main-screen.png)
+
+![A Picture of the website.](images/question-page.png)
+
+![A Picture of the website.](images/game-over-page.png)
