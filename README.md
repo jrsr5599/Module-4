@@ -33,7 +33,7 @@ SO THAT I can gauge my progress compared to my peers
 
 * Website I got the questions from: https://www.interviewbit.com/javascript-mcq/
 
-* Google Search on password generator codes.  
+* Google Search on coding quiz games for javascript.  
 
 * Used YouTube to see how things were coded. 
 
