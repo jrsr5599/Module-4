@@ -43,6 +43,8 @@ SO THAT I can gauge my progress compared to my peers
 
 * Used website https://www.javascript.com 
 
+* Tutoring sessions.
+
 ## ASSETS
 ![A picture of the website.](images/main-screen.png)
 
