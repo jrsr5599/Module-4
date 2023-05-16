@@ -1,0 +1,66 @@
+header {
+    padding: 15px;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h3 {
+    color: black;
+    font-weight: bold;
+}
+
+.countdown {
+    font-size: 20px;
+    color: white;
+}
+
+
+a:hover {
+    color: blue;
+}
+
+main {
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: black;
+    
+}
+
+.answerButtons, .theButtons {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 12px;
+    margin: 22px 0;
+}
+
+.btn {
+    border: 1px solid;
+    border-radius: 12px;
+    font-size: 20px;
+    padding: 17px;
+    background-color: white;
+}
+
+.btn:hover {
+    background-color: blue;
+    color: white;
+}
+
+
+.visibility {
+    visibility: hidden;
+}
+
+
+.footer {
+    color: black;
+    padding: 25px;
+    border-top: 3px solid;
+    background-color:yellow;
+}
+
+
+
+
+
